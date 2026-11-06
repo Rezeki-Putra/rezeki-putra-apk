@@ -6,6 +6,12 @@ Repository distribusi resmi aplikasi Android Rezeki Putra. Source code dikelola 
 
 Buka [rilis terbaru](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/latest), lalu unduh berkas `RezekiPutra-<versi>.apk` pada bagian **Assets**. Jangan memilih **Source code (zip)** atau **Source code (tar.gz)** untuk memasang aplikasi.
 
+## Pembaruan dari dalam aplikasi
+
+**Pasang versi 1.4.22 secara manual satu kali** melalui [APK penghubung](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.22/RezekiPutra-1.4.22.apk). Setelah terpasang, rilis berikutnya dapat diunduh dan diperiksa dari dalam aplikasi; Android tetap meminta Anda menekan **Pasang**. Pemberitahuan baru muncul ketika ada versi yang lebih tinggi.
+
+Versi paket Android adalah **1.4.22**. Indikator versi pada status koneksi masih **1.4.21**, mengikuti bundle antarmuka yang dipertahankan pada rilis penghubung ini.
+
 ## Memasang pembaruan
 
 1. Selesaikan dan sinkronkan pekerjaan yang masih menunggu pengiriman.
