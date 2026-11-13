@@ -8,11 +8,13 @@ Buka [rilis terbaru](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/l
 
 ## Versi terkini
 
-**1.4.35 · Android code50 · 13 November2026.**
+**1.4.36 · Android code51 · 13 November2026.**
 
-- [Unduh APK1.4.35](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.35/RezekiPutra-1.4.35.apk).
-- [Catatan rilis dan checksum](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/tag/v1.4.35).
+- [Unduh APK1.4.36](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.36/RezekiPutra-1.4.36.apk).
+- [Catatan rilis dan checksum](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/tag/v1.4.36).
 - [Buka aplikasi web](https://rezekiputra.pages.dev).
+
+Menu **Penagihan & STT → Buat STT** memakai JKS aktif Sales, misalnya Senin ganjil atau Senin genap. Pilihan awal mengikuti hari ini di WIB. Gunakan **Perbarui daftar** bila JKS diubah saat formulir terbuka.
 
 Menu **Klaim faktur** tersedia untuk koreksi harga atau diskon. Admin memilih **Ajukan klaim**, SPV/CEO memutuskan, dan HoA dapat melihat. Persetujuan mengurangi tagihan atau menyediakan kelebihan pembayaran untuk dikembalikan melalui Keuangan.
 
