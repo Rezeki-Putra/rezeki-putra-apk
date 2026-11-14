@@ -8,11 +8,13 @@ Buka [rilis terbaru](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/l
 
 ## Versi terkini
 
-**1.4.36 · Android code51 · 13 November2026.**
+**1.4.37 · Android code52 · 13 November2026.**
 
-- [Unduh APK1.4.36](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.36/RezekiPutra-1.4.36.apk).
-- [Catatan rilis dan checksum](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/tag/v1.4.36).
+- [Unduh APK1.4.37](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.37/RezekiPutra-1.4.37.apk).
+- [Catatan rilis dan checksum](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/tag/v1.4.37).
 - [Buka aplikasi web](https://rezekiputra.pages.dev).
+
+Pembaruan1.4.37 memperbaiki pemuatan Ringkasan dan Laporan penjualan. Tombol **Coba lagi** menampilkan proses pemuatan. Kembali dari aplikasi lain mempertahankan tampilan dan isian.
 
 Menu **Penagihan & STT → Buat STT** memakai JKS aktif Sales, misalnya Senin ganjil atau Senin genap. Pilihan awal mengikuti hari ini di WIB. Gunakan **Perbarui daftar** bila JKS diubah saat formulir terbuka.
 
