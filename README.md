@@ -8,19 +8,19 @@ Buka [rilis terbaru](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/l
 
 ## Versi terkini
 
-**1.4.37 · Android code52 · 13 November2026.**
+**1.4.38 · Android code53 · 14 November2026.**
 
-- [Unduh APK1.4.37](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.37/RezekiPutra-1.4.37.apk).
-- [Catatan rilis dan checksum](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/tag/v1.4.37).
+- [Unduh APK1.4.38](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.38/RezekiPutra-1.4.38.apk).
+- [Catatan rilis dan checksum](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/tag/v1.4.38).
 - [Buka aplikasi web](https://rezekiputra.pages.dev).
 
-Pembaruan1.4.37 memperbaiki pemuatan Ringkasan dan Laporan penjualan. Tombol **Coba lagi** menampilkan proses pemuatan. Kembali dari aplikasi lain mempertahankan tampilan dan isian.
+Pembaruan1.4.38 menyediakan CN/DN, rincian nama barang kembali, dan penyesuaian menu petugas lapangan. Sales mendaftarkan toko melalui **Kunjungan → Toko baru → Daftarkan toko**.
 
 Menu **Penagihan & STT → Buat STT** memakai JKS aktif Sales, misalnya Senin ganjil atau Senin genap. Pilihan awal mengikuti hari ini di WIB. Gunakan **Perbarui daftar** bila JKS diubah saat formulir terbuka.
 
-Menu **Klaim faktur** tersedia untuk koreksi harga atau diskon. Admin memilih **Ajukan klaim**, SPV/CEO memutuskan, dan HoA dapat melihat. Persetujuan mengurangi tagihan atau menyediakan kelebihan pembayaran untuk dikembalikan melalui Keuangan.
+**CN/DN** menggantikan menu Klaim faktur. SPV mengajukan dari card pesanan selesai pada Penjualan. HoA memutuskan melalui **Pembayaran → CN/DN**. CEO dapat melihat. CN mengurangi tagihan dan dapat menyediakan kelebihan pembayaran untuk dikembalikan. DN menambah tagihan.
 
-AAi tersedia di browser untuk HoA/CEO dengan petunjuk pekerjaan, screenshot dan laporan masalah yang dapat disalin.
+AAi tersedia di browser untuk HoA/CEO. AAi dapat memeriksa status dokumen, pengantaran, pembayaran, Sales/JKS dan aturan diskon aktif. Salin jawaban menghasilkan format WhatsApp.
 
 ## Pembaruan dari dalam aplikasi
 
