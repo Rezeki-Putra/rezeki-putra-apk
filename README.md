@@ -8,13 +8,15 @@ Buka [rilis terbaru](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/l
 
 ## Versi terkini
 
-**1.4.40 · Android code55 · 16 November2026.**
+**1.4.41 · Android code56 · 16 November2026.**
 
-- [Unduh APK1.4.40](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.40/RezekiPutra-1.4.40.apk).
-- [Catatan rilis dan checksum](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/tag/v1.4.40).
+- [Unduh APK1.4.41](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/download/v1.4.41/RezekiPutra-1.4.41.apk).
+- [Catatan rilis dan checksum](https://github.com/Rezeki-Putra/rezeki-putra-apk/releases/tag/v1.4.41).
 - [Buka aplikasi web](https://rezekiputra.pages.dev).
 
-Pembaruan1.4.40 menambah pencarian nama toko dan nomor faktur pada retur serta Daftar pengecekan faktur. Admin, HoA dan CEO sesuai akses dapat menandai kertas faktur yang kembali. Penanda menyimpan petugas dan waktu, serta dapat dipulihkan saat sambungan terputus. PDF tersedia dalam aplikasi dan HTML dengan tombol cetak tersedia di web PC.
+Pembaruan1.4.41 menambah harga promo persen untuk Retail/Grosir. HoA dan CEO membuka Barang & harga → Kemasan & harga → Atur promo pada satuan kemasan yang dipilih. Periksa harga normal serta hasilnya, kemudian simpan dan konfirmasi. Nilai0 menghentikan promo. Verifikasi pembayaran dan karakter tanggal juga diperbaiki.
+
+Pembaruan faktur sebelumnya menambah pencarian nama toko dan nomor faktur pada retur serta Daftar pengecekan faktur. Admin, HoA dan CEO sesuai akses dapat menandai kertas faktur yang kembali. Penanda menyimpan petugas dan waktu, serta dapat dipulihkan saat sambungan terputus. PDF tersedia dalam aplikasi dan HTML dengan tombol cetak tersedia di web PC.
 
 Menu aplikasi menyatukan Penjualan & faktur, Tagihan & pembayaran, Barang & harga, Kunjungan & peta, serta Tim & akun. Tindakan tambahan dibuka melalui tiga titik pada kartu. Sales mendaftarkan toko melalui **Kunjungan → Toko baru → Daftarkan toko**.
 
@@ -22,11 +24,11 @@ Menu **Tagihan & pembayaran → Surat tugas tagih → Buat STT** memakai JKS akt
 
 **CN/DN** menggantikan menu Klaim faktur. SPV mengajukan dari card pesanan selesai pada Penjualan. HoA memutuskan melalui **Tagihan & pembayaran → CN/DN**. CEO dapat melihat. CN mengurangi tagihan dan dapat menyediakan kelebihan pembayaran untuk dikembalikan. DN menambah tagihan.
 
-AAi tersedia di browser untuk HoA/CEO. AAi dapat memeriksa status dokumen, pengantaran, pembayaran, Sales/JKS dan aturan diskon aktif. Salin jawaban menghasilkan format WhatsApp.
+AAi tersedia di browser untuk Admin, SPV, HoA dan CEO aktif, dengan data sesuai akses akun. Sapaan memakai nama awal dan tanggal/jam WIB dari server tersedia pada pertanyaan. AAi dapat memeriksa status dokumen, pengantaran, pembayaran, Sales/JKS dan aturan diskon aktif. Salin jawaban menghasilkan format WhatsApp.
 
 Pada pembelian, Tambah barang dan Tambah satuan memilih hasilnya kembali ke isian asal. Penerimaan/posting dan pembayaran faktur STT dapat dilanjutkan dari rincian dokumen.
 
-Pemasangan fisik APK1.4.40 belum diuji.
+Pemasangan fisik APK1.4.41 belum diuji.
 
 ## Pembaruan dari dalam aplikasi
 
